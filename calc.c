@@ -8,7 +8,7 @@ void main(){
 
 int add(int a ,int b){
 int c;
-//Logic
+c=a+b;
 return c;
 }
 
@@ -20,6 +20,6 @@ return c;
 
 int mul(int a ,int b){
 int c;
-//Logic
+c=a*b;
 return c;
 }
